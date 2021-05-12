@@ -1,3 +1,14 @@
+/*
+
+ *  *  *  *  * 
+ *  *  *  *  *
+ *  *  *  *  *
+ *  *  *  *  *
+ *  *  *  *  *
+
+*/
+
+
 #include <iostream>
 using namespace std;
 void rectangle(int k, int n)
