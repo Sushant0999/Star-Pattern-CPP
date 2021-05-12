@@ -11,11 +11,11 @@
 
 #include <iostream>
 using namespace std;
-void rectangle(int k, int n)
+void rectangle(int row, int col)
 {
-    for (int i = 1; i <= k; i++)
+    for (int i = 1; i <= k; i++)        //for rows
     {
-        for (int j = 1; j <= n; j++)
+        for (int j = 1; j <= n; j++)    //for columns
         {
             cout << " * ";
         }
@@ -25,8 +25,8 @@ void rectangle(int k, int n)
 
 int main()
 {
-    int i, n;
-    cin >> i >> n;
-    rectangle(i, n);
+    int row, col;
+    cin >> row >> row;
+    rectangle(row, col);
     return 0;
 }
