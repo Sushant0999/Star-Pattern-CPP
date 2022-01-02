@@ -1,4 +1,4 @@
-# Star-Pattern-CPP
+# Universal Star-Pattern-CPP
 
 Different star pattern in C++
 
